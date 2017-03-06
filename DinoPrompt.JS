@@ -19,7 +19,7 @@ var dinosaurs = [
   },
   {
     name: 'Eoraptor',
-    legs: 4,
+    legs: 2,
     type: 'carnivore',
     period: 'Triassic'
   },
